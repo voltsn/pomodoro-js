@@ -1,0 +1,15 @@
+{
+  "name": "pomodoro-js",
+  "version": "0.0.1",
+  "description": "A minimal pomodoro timer than runs in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arno N. Volts",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1"
+  }
+}
